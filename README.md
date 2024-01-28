@@ -14,8 +14,12 @@ npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-tem
 
 ```bash
 git clone https://github.com/user/repo
+# or
+git clone git@github.com:user/repo
 # at current folder
 git clone https://github.com/user/repo .
+# or
+git clone git@github.com:user/repo .
 ```
 
 > To install all dependencies of a project:
