@@ -10,7 +10,7 @@ npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-tem
 npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-template .
 ```
 
-> Or click the button "Use this template", then click "Create a new repository". Then clone the repo:
+> Or click the button "Use this template", then click "Create a new repository". After that clone the repo:
 
 ```bash
 git clone https://github.com/user/repo
@@ -24,6 +24,8 @@ git clone https://github.com/user/repo .
 npm install
 # or
 yarn
+# or
+pnpm install
 # or
 bun install
 ```
