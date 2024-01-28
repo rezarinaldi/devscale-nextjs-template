@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, create nextjs project:
+> Create nextjs project:
 
 ```bash
 npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-template
@@ -10,9 +10,25 @@ npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-tem
 npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-template .
 ```
 
-> Or click the button "Use this template", then click "Create a new repostiroy".
+> Or click the button "Use this template", then click "Create a new repository". Then clone the repo:
 
-Second, run the development server:
+```bash
+git clone https://github.com/user/repo
+# at current folder
+git clone https://github.com/user/repo .
+```
+
+> To install all dependencies of a project:
+
+```bash
+npm install
+# or
+yarn
+# or
+bun install
+```
+
+> Run the development server:
 
 ```bash
 npm run dev
