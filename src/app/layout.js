@@ -1,12 +1,11 @@
 import { Inter } from "next/font/google";
 import "@/styles/globals.css";
-import { Header } from "@/components/Header";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Template Next.js | Devscale ID",
-  description: "The React Framework for the Web",
+  description: "Template Next.js untuk Devscale ID",
   publishedTime: "28-01-2024",
   authors: ["Devscale ID Student"],
   icons: {
@@ -20,10 +19,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
-        <Header />
-        {children}
-      </body>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }
