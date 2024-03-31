@@ -5,19 +5,19 @@
 
 ## Getting Started
 
-- Create nextjs project with template:
+- Create project with template
 
 ```bash
 npx create-next-app@latest -e git@github.com:rezarinaldi/devscale-nextjs-template.git
-# at current folder
+# at current directory/folder
 npx create-next-app@latest -e git@github.com:rezarinaldi/devscale-nextjs-template.git .
 ```
 
-- Or click the button "Use this template", then click "Create a new repository". After that clone the repo:
+- Or click the button "Use this template", then click "Create a new repository". After that clone the repo
 
 ```bash
 git clone git@github.com:rezarinaldi/devscale-nextjs-template.git
-# at current folder
+# at current directory/folder
 git clone git@github.com:rezarinaldi/devscale-nextjs-template.git .
 ```
 
