@@ -10,8 +10,8 @@ export const metadata = {
   authors: ["Devscale ID Student"],
   icons: {
     icon: [
-      { url: "/icon.png" },
-      new URL("/icon.png", "https://devscale.id/public/devscalefav.svg"),
+      { url: "/icon.svg" },
+      new URL("/icon.svg", "https://www.devscale.id/favicon.ico"),
     ],
   },
 };
