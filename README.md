@@ -10,9 +10,9 @@
 - Create project with template.
 
 ```bash
-npx create-next-app@latest -e git@github.com:rezarinaldi/devscale-nextjs-template.git
+npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-template
 # at current directory/folder
-npx create-next-app@latest -e git@github.com:rezarinaldi/devscale-nextjs-template.git .
+npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-template .
 ```
 
 - Or click the button "Use this template", then click "Create a new repository". After that clone the repo.
