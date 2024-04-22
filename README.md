@@ -18,6 +18,11 @@ npx create-next-app@latest -e https://github.com/rezarinaldi/devscale-nextjs-tem
 - Or click the button "Use this template", then click "Create a new repository". After that clone the repo.
 
 ```bash
+git clone https://github.com/rezarinaldi/devscale-nextjs-template.git
+# at current directory/folder
+git clone https://github.com/rezarinaldi/devscale-nextjs-template.git .
+
+# using ssh
 git clone git@github.com:rezarinaldi/devscale-nextjs-template.git
 # at current directory/folder
 git clone git@github.com:rezarinaldi/devscale-nextjs-template.git .
